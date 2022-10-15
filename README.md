@@ -1,4 +1,4 @@
-# week-6-NODE-011-POD-F
+
 # EXPRESS 
 
 ### Setup
@@ -56,10 +56,6 @@ IMPLEMENT AUTHORIZATION AND AUTHENTICATION: PROTECT ALL ROUTES. ONLY THE LOGGED-
     }
 ]
 ```
-## Test coverage
-- Make sure you write test to cover your application using Jest/supertest
-
-### Test
 - Test for a GET request
 - Test for a POST request
 - Test for a PUT request
