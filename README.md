@@ -24,7 +24,7 @@ IMPLEMENT AUTHORIZATION AND AUTHENTICATION: PROTECT ALL ROUTES. ONLY THE LOGGED-
   - `POST` Request which adds data to your database
   - `PUT` Request which updates fields of a particular data using the id in database
   - `DELETE` Request which removes a particular data from your database using the id
-- Host your application on Heroku
+
 - Data format example:This shows the data format of registered authors and books created by the authors
 
 ```javascript
